@@ -1,0 +1,3 @@
+= update_status_on_percentage
+
+Update issue 'new' status (set to 'in progress') if percentage is changed.
